@@ -1,0 +1,15 @@
+{
+  "content": {
+    "nav": {
+      "home": "Sākums",
+      "about": "Par mums",
+      "types": "Darba veidi",
+      "partners": "Partners",
+      "photos": "Mūsu pasūtījumi",
+      "contacts": "Kontakti"
+    }
+  },
+  "errors": {
+    "404": "404 kļuda"
+  }
+}

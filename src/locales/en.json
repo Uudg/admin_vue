@@ -1,0 +1,15 @@
+{
+  "content": {
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "types": "Services",
+      "partners": "Partners",
+      "photos": "Our orders",
+      "contacts": "Contacts"
+    }
+  },
+  "errors": {
+    "404": "404 error"
+  }
+}
